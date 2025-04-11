@@ -1,2 +1,1 @@
-# programming-jokes-mobile-application-built-using-Swift-and-REST-API
-programming jokes mobile application built using Swift and REST API.
+# Programming jokes mobile application built using Swift and REST API
